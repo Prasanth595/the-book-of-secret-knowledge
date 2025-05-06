@@ -978,6 +978,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Other
 
 <p>
+&nbsp;&nbsp; <a href="https://refactoring.guru/"><b>Refactoring.Guru</b></a> - a well designed website for guiding through refactoring and clean code principles.<br>
 &nbsp;&nbsp; <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
 &nbsp;&nbsp; <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
 &nbsp;&nbsp; <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
