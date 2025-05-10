@@ -438,6 +438,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.sublimetext.com/3"><b>Sublime Text</b></a> - is a lightweight, cross-platform code editor known for its speed, ease of use.<br>
 &nbsp;&nbsp; <a href="https://code.visualstudio.com/"><b>Visual Studio Code</b></a> - an open-source and free source code editor developed by Microsoft.<br>
 &nbsp;&nbsp; <a href="https://atom.io/"><b>Atom</b></a> - a hackable text editor for the 21st Century.<br>
+&nbsp;&nbsp; <a href="https://www.activestate.com/products/komodo-edit/"><b>Komodo Edit</b></a> - a free and open source text editor for dynamic programming languages.<br>
 </p>
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
