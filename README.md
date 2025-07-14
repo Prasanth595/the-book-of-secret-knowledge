@@ -1033,6 +1033,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/Tikam02/DevOps-Guide"><b>DevOps-Guide</b></a> - DevOps Guide from basic to advanced with Interview Questions and Notes.<br>
 &nbsp;&nbsp; <a href="https://issue.freebsdfoundation.org/publication/?m=33057&l=1&view=issuelistBrowser"><b>FreeBSD Journal</b></a> - it is a great list of periodical magazines about FreeBSD and other important things.<br>
 &nbsp;&nbsp; <a href="https://github.com/bregman-arie/devops-interview-questions"><b>devops-interview-questions</b></a> - contains interview questions on various DevOps and SRE related topics.<br></p>
+&nbsp;&nbsp; <a href="https://github.com/mahseema/awesome-ai-tools"><b>Awesome AI Tools</b></a> - awesome list of AI tools and LLMs<br></p>
 
 ##### :black_small_square: Developers
 
