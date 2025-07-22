@@ -6,7 +6,7 @@
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
 
-<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.</h4>
+<h4 align="center"> A fork of A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. for me so ignore this and move on</h4>
 
 <br>
 
