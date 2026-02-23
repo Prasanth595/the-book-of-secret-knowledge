@@ -4440,3 +4440,5 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+
+- [ODEI MCP Server](https://github.com/odei-ai/mcp-odei) - Constitutional world model MCP server for Claude. Persistent knowledge graph, guardrail validation, smart contract audit.
