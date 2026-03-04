@@ -1408,6 +1408,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/incredibleindishell/CORS-vulnerable-Lab"><b>CORS-vulnerable-Lab</b></a> - sample vulnerable code and its exploit code.<br>
 &nbsp;&nbsp; <a href="https://github.com/moloch--/RootTheBox"><b>RootTheBox</b></a> - a Game of Hackers (CTF Scoreboard & Game Manager).<br>
 &nbsp;&nbsp; <a href="https://application.security/"><b>KONTRA</b></a> - application security training (OWASP Top Web & Api).<br>
+&nbsp;&nbsp; <a href="https://ransomleak.com/"><b>RansomLeak</b></a> - interactive 3D security training (Secuity Awareness, OWASP for AI & LLM, OWASP for Privacy).<br>
 </p>
 
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
