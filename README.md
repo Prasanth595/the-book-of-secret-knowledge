@@ -328,6 +328,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://lnav.org"><b>lnav</b></a> - log file navigator with search and automatic refresh.<br>
 &nbsp;&nbsp; <a href="https://goaccess.io/"><b>GoAccess</b></a> - real-time web log analyzer and interactive viewer that runs in a terminal.<br>
 &nbsp;&nbsp; <a href="https://github.com/lebinh/ngxtop"><b>ngxtop</b></a> - real-time metrics for nginx server.<br>
+&nbsp;&nbsp; <a href="https://github.com/bad-antics/nullsec-logreaper"><b>NullSec LogReaper</b></a> - real-time log analysis and threat detection tool with pattern matching, anomaly detection, and alerting.<br>
 </p>
 
 ##### :black_small_square: Databases
