@@ -538,6 +538,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp;<a href="https://beginthings.com"><b>BeginThings</b></a> - 96+ free browser-based tools for developers &amp; freelancers — JSON formatter, regex tester, base64 encoder, image compressor, QR code generator, and more. No signup required.<br>
 </p>
 
 ##### :black_small_square: Net-tools
