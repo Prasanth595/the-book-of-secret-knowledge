@@ -121,6 +121,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
 &nbsp;&nbsp; <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
+&nbsp;&nbsp; <a href="https://ohmyposh.dev"><b>Oh My Posh</b></a> - is a cross-shell prompt theme engine.<br>
 </p>
 
 ##### :black_small_square: Shell plugins
