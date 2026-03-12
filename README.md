@@ -570,6 +570,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.shellcheck.net/"><b>ShellCheck</b></a> - finds bugs in your shell scripts.<br>
 &nbsp;&nbsp; <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp; <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript, and more.<br>
+&nbsp;&nbsp; <a href="https://gui.new"><b>gui.new</b></a> - POST HTML, get a shareable link. Real-time input sync and state persistence built in. SDKs for npm and pip.<br>
 &nbsp;&nbsp; <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development.<br>
 &nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
 &nbsp;&nbsp; <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
