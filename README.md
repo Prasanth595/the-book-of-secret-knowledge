@@ -280,6 +280,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://wiki.ubuntu.com/AppArmor"><b>AppArmor</b></a> - proactively protects the operating system and applications from external or internal threats.<br>
 &nbsp;&nbsp; <a href="https://github.com/grapheneX/grapheneX"><b>grapheneX</b></a> - Automated System Hardening Framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
+&nbsp;&nbsp; <a href="https://github.com/GreyhavenHQ/greywall"><b>greywall</b></a> - deny-by-default command sandbox with filesystem isolation and network control for CLI tools and AI agents.<br>
 </p>
 
 ##### :black_small_square: Auditing Tools
