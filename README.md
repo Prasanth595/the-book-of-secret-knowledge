@@ -693,6 +693,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="http://mail2tor.com/"><b>Mail2Tor</b></a> - is a Tor Hidden Service that allows anyone to send and receive emails anonymously.<br>
 &nbsp;&nbsp; <a href="https://tutanota.com/"><b>Tutanota</b></a> - is the world's most secure email service and amazingly easy to use.<br>
 &nbsp;&nbsp; <a href="https://protonmail.com/"><b>Protonmail</b></a> - is the world's largest secure email service, developed by CERN and MIT scientists.<br>
+&nbsp;&nbsp; <a href="https://nubo.email"><b>Nubo Email</b></a> - privacy-first email and collaboration platform built on JMAP protocol with calendar, drive, and video meetings.<br>
 &nbsp;&nbsp; <a href="https://www.startmail.com/en/"><b>Startmail</b></a> - private & encrypted email made easy.<br>
 </p>
 
