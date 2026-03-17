@@ -750,6 +750,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/z3APA3A/3proxy"><b>3proxy</b></a> - tiny free proxy server.<br>
+&nbsp;&nbsp; <a href="https://archtools.dev"><b>Arch Tools</b></a> - 61 production-ready AI tools API (code analysis, web scraping, image generation, NLP, crypto, search) via REST and MCP protocol with x402 USDC micropayments.<br>
 </p>
 
 ##### :black_small_square: Security/hardening
