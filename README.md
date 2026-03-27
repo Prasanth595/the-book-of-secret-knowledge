@@ -538,6 +538,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://anytools.io/"><b>Anytools</b></a> - a free, client-side browser platform with 40+ utilities covering Base64 encoding/decoding, URL encoding, HTML encoding, JSON formatting, JWT decoding, regex testing, SHA checksums, UUID generation, password generation, code minification, color palette generation, contrast checking, and calculators. No account required.<br>
 </p>
 
 ##### :black_small_square: Net-tools
