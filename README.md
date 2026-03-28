@@ -110,6 +110,7 @@ Only main chapters:
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+- [ReleaseRun](https://releaserun.com) — release monitoring and dependency EOL tracking — free browser tools for K8s deprecation checking, dependency CVE scanning, and version health across 13+ technologies
 ##### :black_small_square: Shells
 
 <p>
