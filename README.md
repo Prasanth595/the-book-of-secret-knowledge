@@ -415,6 +415,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
 &nbsp;&nbsp; <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br>
 </p>
+&nbsp;&nbsp; <a href="https://github.com/HMAKT99/UnTouchID"><b>TouchBridge</b></a> - use your phone's fingerprint to authenticate on any Mac without Touch ID. Free alternative to $199 keyboard.<br>
 
 ##### :black_small_square: Messengers/IRC Clients
 
