@@ -549,6 +549,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
 &nbsp;&nbsp; <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp; <a href="https://extendsclass.com/"><b>Online Tools for Developers</b></a> - HTTP API tools, testers, encoders, converters, formatters, and other tools.<br>
+&nbsp;&nbsp; <a href="https://www.freetoolbox.site/"><b>FreeToolBox</b></a> - 60+ free browser-based tools for PDF, image, video and dev tasks — all processing happens locally, files never leave your device.<br>
 &nbsp;&nbsp; <a href="https://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp; <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp; <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br>
