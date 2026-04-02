@@ -555,6 +555,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br>
 &nbsp;&nbsp; <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
 &nbsp;&nbsp; <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
+&nbsp;&nbsp; <a href="https://toolpipe.dev"><b>ToolPipe</b></a> - free developer utility API with 55+ endpoints for QR codes, DNS lookup, hashing, PDF processing, text analysis, and more.<br>
 </p>
 
 ##### :black_small_square: Privacy
