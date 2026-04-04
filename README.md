@@ -131,6 +131,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+&nbsp;&nbsp; <a href="https://terminaltrove.com/btop/"><b>btop</b></a> - btop is a resource monitor for the terminal. It offers real-time visualization of usage statistics for your machine's CPU, memory, disks, network, and processes.
+<br>
 </p>
 
 ##### :black_small_square: Managers
@@ -581,6 +583,8 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
+&nbsp;&nbsp; <a href="https://logaiapp.netlify.app/"><b>LogAi</b></a> - AI-powered log analysis platform designed to help developers, DevOps engineers, and SRE teams diagnose system issues efficiently.
+<br>
 &nbsp;&nbsp; <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
 performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://tools.pingdom.com/"><b>Pingdom Tools</b></a> - analyze your site’s speed around the world.<br>
@@ -819,6 +823,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://github.com/wsargent/docker-cheat-sheet"><b>docker-cheat-sheet</b></a> - a quick reference cheat sheet on Docker.<br>
 &nbsp;&nbsp; <a href="https://github.com/veggiemonk/awesome-docker"><b>awesome-docker</b></a> - a curated list of Docker resources and projects.<br>
+&nbsp;&nbsp; <a href="https://lazydocker.com/"><b>lazydocker</b></a> - Lazydocker is a simple, terminal-based UI for managing Docker containers, images, volumes, and services. Monitor logs, stats, and perform actions easily with an intuitive, lightweight interface.<br>
 &nbsp;&nbsp; <a href="https://github.com/yeasy/docker_practice"><b>docker_practice</b></a> - learn and understand Docker technologies, with real DevOps practice!<br>
 &nbsp;&nbsp; <a href="https://github.com/docker/labs"><b>labs
 </b></a> - is a collection of tutorials for learning how to use Docker with various tools.<br>
