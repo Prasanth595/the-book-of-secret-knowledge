@@ -37,6 +37,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 A few simple rules for this project:
 
+- [Glitch](https://github.com/Ankitajainkuniya/glitch-widget) - AI-powered bug reporting with auto-captured errors.
 - inviting and clear
 - not tiring
 - useful
