@@ -110,6 +110,7 @@ Only main chapters:
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration, automated security auditing, and development workflow coordination. MIT licensed.
 ##### :black_small_square: Shells
 
 <p>
