@@ -1572,6 +1572,7 @@ AWS deployment tool.<br>
 | **`d3coder`** | Encoding/Decoding plugin for various types of encoding. |
 | **`Web Developer`** | Adds a toolbar button with various web developer tools. |
 | **`ThreatPinch Lookup`** | Add threat intelligence hover tool tips. |
+| **`keyFinder`** | Passively scans web pages for exposed API keys, tokens, and secrets using 80+ regex patterns and Shannon entropy analysis. |
 
 ###### TOP Burp extensions
 
