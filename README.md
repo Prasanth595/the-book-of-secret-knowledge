@@ -663,6 +663,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://cxsecurity.com/exploit/"><b>cxsecurity</b></a> - free vulnerability database.<br>
 &nbsp;&nbsp; <a href="https://www.vulncode-db.com/"><b>Vulncode-DB</b></a> - is a database for vulnerabilities and their corresponding source code if available.<br>
 &nbsp;&nbsp; <a href="https://cveapi.com/"><b>cveapi</b></a> - free API for CVE data.<br>
+&nbsp;&nbsp; <a href="https://cyberbriefing.info"><b>CyberBriefing</b></a> - historical threat intelligence API: 2.7M articles (1998-2025), 68K CVEs with exploitation context, 63K+ IOCs. Free tier available.<br>
 </p>
 
 ##### :black_small_square: Mobile apps scanners
