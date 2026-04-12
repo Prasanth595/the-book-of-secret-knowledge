@@ -955,6 +955,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://bo0om.ru/en/"><b>Explosive blog</b></a> - great blog about cybersec and pentests.<br>
 &nbsp;&nbsp; <a href="https://www.netsparker.com/security-cookies-whitepaper/"><b>Security Cookies</b></a> - this paper will take a close look at cookie security.<br>
 &nbsp;&nbsp; <a href="https://github.com/GitGuardian/APISecurityBestPractices"><b>APISecurityBestPractices</b></a> - help you keep secrets (API keys, db credentials, certificates) out of source code.<br>
+&nbsp;&nbsp; <a href="https://whatpwacando.today/"><b>What PWA can do today</b></a> - web app the helps developers to understand and try out all features a progessive web app is capable of; is an installable pwa by itself<br>
 </p>
 
 ##### :black_small_square: All-in-one
