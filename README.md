@@ -1615,6 +1615,7 @@ In Firefox's address bar, you can limit results by typing special characters bef
 - `chrome://restart` - restart chrome
 - `chrome://dino` - ERR_INTERNET_DISCONNECTED...
 - `cache:<website-address>` - view the cached version of the web page
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ###### Bypass WAFs by Shortening IP Address (by [0xInfection](https://twitter.com/0xInfection))
 
