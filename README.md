@@ -551,6 +551,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://extendsclass.com/"><b>Online Tools for Developers</b></a> - HTTP API tools, testers, encoders, converters, formatters, and other tools.<br>
 &nbsp;&nbsp; <a href="https://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
 &nbsp;&nbsp; <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
+&nbsp;&nbsp; <a href="https://hackmyip.com/"><b>HackMyIP</b></a> - free online security toolkit with 20+ tools: IP/DNS lookup, port scanner, email breach checker, WebRTC/DNS leak tests, browser fingerprinting.<br>
 &nbsp;&nbsp; <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br>
 &nbsp;&nbsp; <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br>
 &nbsp;&nbsp; <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
