@@ -801,6 +801,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/Kong/kong"><b>kong</b></a> - The Cloud-Native API Gateway.<br>
 &nbsp;&nbsp; <a href="https://github.com/rancher/rancher"><b>rancher</b></a> - complete container management platform.<br>
 &nbsp;&nbsp; <a href="https://github.com/portainer/portainer"><b>portainer</b></a> - making Docker management easy.<br>
+&nbsp;&nbsp; <a href="https://console.kubestellar.io/"><b>KubeStellar Console</b></a> - open source AI-powered multi-cluster Kubernetes dashboard with real-time observability and 20+ CNCF integrations (Argo, Kyverno, Prometheus, and more). CNCF Sandbox project.<br>
 &nbsp;&nbsp; <a href="https://github.com/jwilder/nginx-proxy"><b>nginx-proxy</b></a> - automated nginx proxy for Docker containers using docker-gen.<br>
 &nbsp;&nbsp; <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br>
 </p>
