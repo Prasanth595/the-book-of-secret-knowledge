@@ -1255,6 +1255,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
 &nbsp;&nbsp; <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
 &nbsp;&nbsp; <a href="https://github.com/Nekmo/dirhunt"><b>dirhunt</b></a> - find web directories without bruteforce.<br>
+&nbsp;&nbsp; <a href="https://pentestmindmap.com"><b>Pentest Mindmap</b></a> - interactive mindmap with 11,600+ pentesting commands organized by category (web, AD, privesc, network, OSCP).<br>
 &nbsp;&nbsp; <a href="https://www.openwall.com/john/"><b>John The Ripper</b></a> - is a fast password cracker, currently available for many flavors of Unix, Windows, and other.<br>
 &nbsp;&nbsp; <a href="https://hashcat.net/hashcat/"><b>hashcat</b></a> - world's fastest and most advanced password recovery utility.<br>
 &nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/p0f3/"><b>p0f</b></a> - is a tool to identify the players behind any incidental TCP/IP communications.<br>
