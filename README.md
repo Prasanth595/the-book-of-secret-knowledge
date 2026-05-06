@@ -280,6 +280,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://wiki.ubuntu.com/AppArmor"><b>AppArmor</b></a> - proactively protects the operating system and applications from external or internal threats.<br>
 &nbsp;&nbsp; <a href="https://github.com/grapheneX/grapheneX"><b>grapheneX</b></a> - Automated System Hardening Framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
+&nbsp;&nbsp; <a href="https://github.com/SyedAnas01/mcp-safeguard"><b>mcp-safeguard</b></a> - Security scanner for MCP (Model Context Protocol) servers used by AI agents. Detects prompt injection in tool descriptions, hardcoded credentials, exposed endpoints, and tool poisoning. CVSS-scored findings. <code>pip install mcp-safeguard</code><br>
 </p>
 
 ##### :black_small_square: Auditing Tools
