@@ -805,6 +805,10 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br>
 </p>
 
+##### :black_small_square: Internal Developer Platforms
+
+&nbsp;&nbsp; <a href="https://github.com/openchoreo/openchoreo">OpenChoreo</a> - open-source internal developer platform for Kubernetes with developer self-service, GitOps-based delivery, observability, and platform abstractions.
+
 ##### :black_small_square: Security
 
 <p>
