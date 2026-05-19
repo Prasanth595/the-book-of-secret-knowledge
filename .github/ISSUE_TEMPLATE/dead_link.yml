@@ -1,0 +1,38 @@
+name: Dead link
+description: Report a broken, moved, or deprecated resource.
+title: "Dead link: "
+labels: ["dead-link", "maintenance"]
+body:
+  - type: input
+    id: current_url
+    attributes:
+      label: Current URL
+      description: Paste the broken URL exactly as it appears in the repository.
+    validations:
+      required: true
+  - type: input
+    id: replacement_url
+    attributes:
+      label: Replacement URL
+      description: If the resource moved, paste the maintained canonical URL.
+    validations:
+      required: false
+  - type: dropdown
+    id: status
+    attributes:
+      label: Link status
+      options:
+        - Permanently gone
+        - Moved
+        - Temporarily unavailable
+        - Deprecated
+        - Unsafe or hijacked
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add the HTTP status, upstream notice, archive link, or other proof.
+    validations:
+      required: true

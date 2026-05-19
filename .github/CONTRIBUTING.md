@@ -1,57 +1,71 @@
 # Contributing
 
-  > _A real community, however, exists only when its members interact in a meaningful way that deepens their understanding of each other and leads to learning._
+This project is a curated knowledge base. A link belongs here only when it is useful, maintained, and placed where readers can find it quickly.
 
-If you would like to support this project, have an interesting idea how to improve the operation of this tool, or if you found some errors - fork this, add your fixes, and add a pull request of your branch to the **master branch**.
+## What Gets Accepted
 
-## Using the issue tracker
+- Tools, guides, lists, labs, and references that are useful to system administrators, DevOps engineers, security researchers, developers, and technical operators.
+- Resources with a stable upstream URL, active maintenance, or clear historical value.
+- Small, focused changes that add, replace, remove, or reorganize resources with a short reason.
+- Dead-link fixes that point to the maintained upstream project, official documentation, or a trusted archive when the original resource has disappeared.
 
-The [issue tracker](https://github.com/trimstray/the-book-of-secret-knowledge/issues) is
-the preferred channel for bug reports, features requests and submitting pull requests, but please respect the following restrictions:
+## What Gets Rejected
 
-* Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](https://stackoverflow.com) or IRC)
+- SEO lists, thin marketing pages, affiliate pages, or generic tool directories.
+- Personal projects without documentation, usage examples, or maintenance signals.
+- Duplicates of resources that are already listed under a better name or canonical URL.
+- Offensive resources without legitimate educational, defensive, research, or lab value.
+- Bulk submissions that mix unrelated categories and make review difficult.
 
-* Please **do not** derail or troll issues. Keep the discussion on topic and
-  respect the opinions of others
+## Resource Quality Checklist
 
-## Signature of commit
+Before opening a pull request, check that every new or changed resource has:
 
-Moving forward all commits to this project must include a "signed-off-by" line indicating the name and email address of the contributor signing off on the change. To enable signatures add the following lines to `.git/hooks/prepare-commit-msg` :
+- a working URL;
+- a short description written in the same style as the surrounding section;
+- the correct category;
+- no tracking parameters in the URL;
+- no duplicate already present in `README.md`;
+- a reason to be in a curated list rather than a search result.
 
-```
-SOB=$(git var GIT_AUTHOR_IDENT | sed -n 's/^\(.*>\).*$/- signed-off-by: \1/p')
-grep -qs "^$SOB" "$1" || echo "$SOB" >> "$1"
-```
+## Signed-Off Commits
 
-## Pull requests
+Commits should include a `Signed-off-by` line with the contributor's name and email address. This preserves the existing maintainer policy and keeps provenance clear.
 
-When creating a pull request, please heed the following:
-
-- Base your code on the latest master branch to avoid manual merges
-- Code review may ensue in order to help shape your proposal
-- Explain the problem and your proposed solution
-- One-line description - please don't continue the description on new lines
-
-## How to find broken links?
-
-```bash
-git clone https://github.com/trimstray/the-book-of-secret-knowledge && cd the-book-of-secret-knowledge
-
-for i in $(sed -n 's/.*href="\([^"]*\).*/\1/p' README.md | grep -v "^#") ; do
-
-  _rcode=$(curl -s -o /dev/null -w "%{http_code}" "$i")
-
-  if [[ "$_rcode" != "2"* ]] ; then echo " -> $i - $_rcode" ; fi
-
-done
-```
-
-Result:
+You can add it automatically with:
 
 ```bash
- -> https://ghostproject.fr/ - 503
- -> http://www.mmnt.net/ - 302
- -> https://search.weleakinfo.com/ - 503
- [...]
+git commit -s
 ```
+
+## Category Rules
+
+Place tools by primary use, not by implementation language. For example, a Go-based DNS scanner belongs under DNS tooling, not a generic Go section.
+
+When a resource fits multiple sections, choose the section where a reader would most likely look for it during real work. If the placement is debatable, mention the reason in the pull request.
+
+## Dead Links
+
+Do not delete a dead link immediately if it may be a temporary outage. Prefer this order:
+
+1. Replace it with the canonical maintained URL if the project moved.
+2. Replace it with official documentation if the product changed location.
+3. Mark it as temporarily unavailable with `*` if the outage is uncertain.
+4. Remove it only when the resource is permanently gone, deprecated, hostile, or no longer useful.
+
+Run the local checker before submitting:
+
+```bash
+python scripts/check_links.py README.md
+```
+
+## Pull Request Scope
+
+Keep changes reviewable:
+
+- one category cleanup;
+- one dead-link batch;
+- one new-resource batch around a clear theme;
+- one maintenance or tooling improvement.
+
+Large revival work should be split into several pull requests unless the change is mechanical and generated by a documented script.
