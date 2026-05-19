@@ -1,0 +1,43 @@
+name: Resource request
+description: Suggest a tool, guide, lab, list, or reference for the collection.
+title: "Add resource: "
+labels: ["resource-request", "triage"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Use the canonical upstream URL.
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Proposed category
+      description: Example: CLI Tools / Network (DNS)
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why it belongs here
+      description: Explain the operational value. Avoid marketing copy.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Curation checks
+      options:
+        - label: I checked that the URL works.
+          required: true
+        - label: I searched `README.md` for duplicates.
+          required: true
+        - label: This is not an affiliate, SEO, or generic directory page.
+          required: true

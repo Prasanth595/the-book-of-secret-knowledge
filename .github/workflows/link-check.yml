@@ -1,0 +1,33 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "scripts/check_links.py"
+      - ".github/workflows/link-check.yml"
+  push:
+    branches:
+      - master
+      - main
+  schedule:
+    - cron: "19 4 * * 1"
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Check Markdown links
+        run: |
+          python scripts/check_links.py README.md MAINTENANCE.md .github/CONTRIBUTING.md --workers 16 --timeout 12 --format markdown

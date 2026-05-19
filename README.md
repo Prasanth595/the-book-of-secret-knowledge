@@ -54,6 +54,8 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 + This repository is not meant to contain everything but only good quality stuff.
 ```
 
+Maintenance rules for dead links, category cleanup, release work, and backlog triage are documented in **[MAINTENANCE.md](MAINTENANCE.md)**.
+
 All **suggestions/PR** are welcome!
 
 ### Code Contributors
@@ -83,6 +85,8 @@ GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-kno
 - [ ] Add useful shell functions
 - [ ] Add one-liners for collection tools (eg. CLI Tools)
 - [ ] Sort order in lists
+- [ ] Run scheduled link checks and replace moved or permanently dead resources
+- [ ] Triage open pull requests into merge, revise, duplicate, stale, or close decisions
 
 New items are also added on a regular basis.
 
@@ -120,6 +124,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://ohmyz.sh/"><b>Oh My ZSH!</b></a> - is the best framework for managing your Zsh configuration.<br>
 &nbsp;&nbsp; <a href="https://github.com/oh-my-fish/oh-my-fish"><b>Oh My Fish</b></a> - the Fishshell framework.<br>
 &nbsp;&nbsp; <a href="https://github.com/starship/starship"><b>Starship</b></a> - the cross-shell prompt written in Rust.<br>
+&nbsp;&nbsp; <a href="https://ohmyposh.dev/"><b>Oh My Posh</b></a> - cross-platform prompt theme engine for shells.<br>
 &nbsp;&nbsp; <a href="https://github.com/romkatv/powerlevel10k"><b>powerlevel10k</b></a> - is a fast reimplementation of Powerlevel9k ZSH theme.<br>
 </p>
 
@@ -131,6 +136,9 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+&nbsp;&nbsp; <a href="https://github.com/ajeetdsouza/zoxide"><b>zoxide</b></a> - a smarter cd command that learns your most-used directories.<br>
+&nbsp;&nbsp; <a href="https://github.com/atuinsh/atuin"><b>Atuin</b></a> - shell history with sync, search, and encrypted storage.<br>
+&nbsp;&nbsp; <a href="https://direnv.net/"><b>direnv</b></a> - load and unload environment variables depending on the current directory.<br>
 </p>
 
 ##### :black_small_square: Managers
@@ -142,6 +150,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/screen/"><b>screen</b></a> - is a full-screen window manager that multiplexes a physical terminal.<br>
 &nbsp;&nbsp; <a href="https://github.com/tmux/tmux/wiki"><b>tmux</b></a> - is a terminal multiplexer, lets you switch easily between several programs in one terminal.<br>
 &nbsp;&nbsp; <a href="https://github.com/peikk0/tmux-cssh"><b>tmux-cssh</b></a> - is a tool to set comfortable and easy to use functionality tmux-sessions.<br>
+&nbsp;&nbsp; <a href="https://zellij.dev/"><b>Zellij</b></a> - terminal workspace and multiplexer with layouts, panes, and plugins.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -152,6 +161,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
 &nbsp;&nbsp; <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
 &nbsp;&nbsp; <a href="https://neovim.io/"><b>neovim</b></a> - is a free open source, powerful, extensible and usable code editor.<br>
+&nbsp;&nbsp; <a href="https://helix-editor.com/"><b>Helix</b></a> - modal terminal editor with built-in language server support.<br>
 &nbsp;&nbsp; <a href="https://www.spacemacs.org/"><b>spacemacs</b></a> - a community-driven Emacs distribution.<br>
 &nbsp;&nbsp; <a href="https://spacevim.org/"><b>spacevim</b></a> - a community-driven vim distribution.<br>
 </p>
@@ -160,7 +170,11 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
+&nbsp;&nbsp; <a href="https://github.com/BurntSushi/ripgrep"><b>ripgrep</b></a> - recursively searches directories while respecting gitignore rules.<br>
+&nbsp;&nbsp; <a href="https://github.com/sharkdp/bat"><b>bat</b></a> - cat clone with syntax highlighting and Git integration.<br>
+&nbsp;&nbsp; <a href="https://github.com/eza-community/eza"><b>eza</b></a> - modern, maintained replacement for ls with Git awareness.<br>
 &nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
+&nbsp;&nbsp; <a href="https://github.com/bootandy/dust"><b>dust</b></a> - intuitive disk usage analyzer for quickly finding large paths.<br>
 </p>
 
 ##### :black_small_square: Network
@@ -188,7 +202,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
 &nbsp;&nbsp; <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
 &nbsp;&nbsp; <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
-&nbsp;&nbsp; <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp; <a href="https://github.com/iptraf-ng/iptraf-ng"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
 &nbsp;&nbsp; <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
 &nbsp;&nbsp; <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
@@ -197,7 +211,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
 &nbsp;&nbsp; <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
 &nbsp;&nbsp; <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
-&nbsp;&nbsp; <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
+&nbsp;&nbsp; <a href="https://github.com/fortra/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
 &nbsp;&nbsp; <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
 &nbsp;&nbsp; <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
 &nbsp;&nbsp; <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
@@ -213,8 +227,9 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/subfinder/subfinder"><b>subfinder</b></a> - is a subdomain discovery tool that discovers valid subdomains for websites.<br>
 &nbsp;&nbsp; <a href="https://github.com/aboul3la/Sublist3r"><b>sublist3r</b></a> - is a fast subdomains enumeration tool for penetration testers.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/Amass"><b>amass</b></a> - is tool that obtains subdomain names by scraping data sources, crawling web archives, and more.<br>
-&nbsp;&nbsp; <a href="https://github.com/google/namebench"><b>namebench</b></a> - provides personalized DNS server recommendations based on your browsing history.<br>
 &nbsp;&nbsp; <a href="https://github.com/blechschmidt/massdns"><b>massdns</b></a> - is a high-performance DNS stub resolver for bulk lookups and reconnaissance.<br>
+&nbsp;&nbsp; <a href="https://github.com/mr-karan/doggo"><b>doggo</b></a> - human-friendly command-line DNS client.<br>
+&nbsp;&nbsp; <a href="https://github.com/projectdiscovery/dnsx"><b>dnsx</b></a> - fast and multi-purpose DNS toolkit for active probing and filtering.<br>
 &nbsp;&nbsp; <a href="https://github.com/guelfoweb/knock"><b>knock</b></a> - is a tool to enumerate subdomains on a target domain through a wordlist.<br>
 &nbsp;&nbsp; <a href="https://github.com/DNS-OARC/dnsperf"><b>dnsperf</b></a> - DNS performance testing tools.<br>
 &nbsp;&nbsp; <a href="https://github.com/jedisct1/dnscrypt-proxy"><b>dnscrypt-proxy 2</b></a> - a flexible DNS proxy, with support for encrypted DNS protocols.<br>
@@ -226,9 +241,9 @@ Only main chapters:
 ##### :black_small_square: Network (HTTP)
 
 <p>
-&nbsp;&nbsp; <a href="https://curl.haxx.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
-&nbsp;&nbsp; <a href="https://gitlab.com/davidjpeacock/kurly"><b>kurly</b></a> - is an alternative to the widely popular curl program, written in Golang.<br>
-&nbsp;&nbsp; <a href="https://github.com/jakubroztocil/httpie"><b>HTTPie</b></a> - is an user-friendly HTTP client.<br>
+&nbsp;&nbsp; <a href="https://curl.se/"><b>curl</b></a> - is a command line tool and library for transferring data with URLs.<br>
+&nbsp;&nbsp; <a href="https://github.com/httpie/cli"><b>HTTPie</b></a> - is a user-friendly HTTP client for APIs, sessions, JSON, and downloads.<br>
+&nbsp;&nbsp; <a href="https://github.com/ducaale/xh"><b>xh</b></a> - fast and friendly HTTP client built for practical API work.<br>
 &nbsp;&nbsp; <a href="https://github.com/asciimoo/wuzz"><b>wuzz</b></a> - is an interactive cli tool for HTTP inspection.<br>
 &nbsp;&nbsp; <a href="https://github.com/summerwind/h2spec"><b>h2spec</b></a> - is a conformance testing tool for HTTP/2 implementation.<br>
 &nbsp;&nbsp; <a href="https://github.com/gildasio/h2t"><b>h2t</b></a> - is a simple tool to help sysadmins to hardening their websites.<br>
@@ -239,7 +254,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/browsh-org/browsh/"><b>Browsh</b></a> - is a fully interactive, real-time, and modern text-based browser.<br>
 &nbsp;&nbsp; <a href="https://github.com/dhamaniasad/HeadlessBrowsers"><b>HeadlessBrowsers</b></a> - a list of (almost) all headless web browsers in existence.<br>
 &nbsp;&nbsp; <a href="https://httpd.apache.org/docs/2.4/programs/ab.html"><b>ab</b></a> - is a single-threaded command line tool for measuring the performance of HTTP web servers.<br>
-&nbsp;&nbsp; <a href="https://www.joedog.org/siege-home/"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
+&nbsp;&nbsp; <a href="https://github.com/JoeDog/siege"><b>siege</b></a> - is an http load testing and benchmarking utility.<br>
 &nbsp;&nbsp; <a href="https://github.com/wg/wrk"><b>wrk</b></a> - is a modern HTTP benchmarking tool capable of generating significant load.<br>
 &nbsp;&nbsp; <a href="https://github.com/giltene/wrk2"><b>wrk2</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
 &nbsp;&nbsp; <a href="https://github.com/tsenart/vegeta"><b>vegeta</b></a> - is a constant throughput, correct latency recording variant of wrk.<br>
@@ -310,6 +325,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
 &nbsp;&nbsp; <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br>
+&nbsp;&nbsp; <a href="https://github.com/aristocratos/btop"><b>btop</b></a> - resource monitor for CPU, memory, disks, network, and processes.<br>
 &nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
 &nbsp;&nbsp; <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
@@ -319,6 +335,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
 &nbsp;&nbsp; <a href="https://github.com/sharkdp/hexyl"><b>hexyl</b></a> - a command-line hex viewer.<br>
 &nbsp;&nbsp; <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
+&nbsp;&nbsp; <a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a> - command-line benchmarking tool with statistical analysis.<br>
 </p>
 
 ##### :black_small_square: Log Analyzers
@@ -388,6 +405,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://gnometerminator.blogspot.com/p/introduction.html"><b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
 &nbsp;&nbsp; <a href="https://sw.kovidgoyal.net/kitty/"><b>Kitty</b></a> - is a GPU based terminal emulator that supports smooth scrolling and images.<br>
 &nbsp;&nbsp; <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
+&nbsp;&nbsp; <a href="https://github.com/wezterm/wezterm"><b>WezTerm</b></a> - GPU-accelerated terminal emulator and multiplexer.<br>
+&nbsp;&nbsp; <a href="https://ghostty.org/"><b>Ghostty</b></a> - fast, native terminal emulator with GPU acceleration.<br>
 </p>
 
 ##### :black_small_square: Network
@@ -447,7 +466,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://www.ssllabs.com/ssltest/viewMyClient.html"><b>SSL/TLS Capabilities of Your Browser</b></a> - test your browser's SSL implementation.<br>
 &nbsp;&nbsp; <a href="https://caniuse.com/"><b>Can I use</b></a> - provides up-to-date browser support tables for support of front-end web technologies.<br>
-&nbsp;&nbsp; <a href="https://panopticlick.eff.org/"><b>Panopticlick 3.0</b></a> - is your browser safe against tracking?<br>
+&nbsp;&nbsp; <a href="https://coveryourtracks.eff.org/"><b>Cover Your Tracks</b></a> - test how well your browser resists tracking and fingerprinting.<br>
 &nbsp;&nbsp; <a href="https://privacy.net/analyzer/"><b>Privacy Analyzer</b></a> - see what data is exposed from your browser.<br>
 &nbsp;&nbsp; <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> - it's all about Web Browser fingerprinting.<br>
 &nbsp;&nbsp; <a href="https://www.howsmyssl.com/"><b>How's My SSL?</b></a> - help a web server developer learn what real world TLS clients were capable of.<br>
@@ -510,7 +529,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.buddyns.com/delegation-lab/"><b>BuddyDNS Delegation LAB</b></a> - check, trace and visualize delegation of your domain.<br>
 &nbsp;&nbsp; <a href="https://dnssec-debugger.verisignlabs.com/"><b>dnssec-debugger</b></a> - DS or DNSKEY records validator.<br>
 &nbsp;&nbsp; <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
-&nbsp;&nbsp; <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
+&nbsp;&nbsp; <a href="https://sslip.io/"><b>sslip.io</b></a> - wildcard DNS for development and testing with arbitrary IP addresses.<br>
 &nbsp;&nbsp; <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
 &nbsp;&nbsp; <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp; <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
@@ -571,7 +590,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://explainshell.com/"><b>explainshell</b></a> - get interactive help texts for shell commands.<br>
 &nbsp;&nbsp; <a href="https://jsbin.com/?html,output"><b>jsbin</b></a> - live pastebin for HTML, CSS & JavaScript, and more.<br>
 &nbsp;&nbsp; <a href="https://codesandbox.io/"><b>CodeSandbox</b></a> - online code editor for web application development.<br>
-&nbsp;&nbsp; <a href="http://sandbox.onlinephpfunctions.com/"><b>PHP Sandbox</b></a> - test your PHP code with this code tester.<br>
+&nbsp;&nbsp; <a href="https://onlinephp.io/"><b>OnlinePHP.io</b></a> - test PHP code and versions in the browser.<br>
 &nbsp;&nbsp; <a href="https://www.repl.it/"><b>Repl.it</b></a> - an instant IDE to learn, build, collaborate, and host all in one place.<br>
 &nbsp;&nbsp; <a href="http://www.vclfiddle.net/"><b>vclFiddle</b></a> - is an online tool for experimenting with the Varnish Cache VCL.<br>
 &nbsp;&nbsp; <a href="https://github.com/hadolint/hadolint"><b>Haskell Dockerfile Linter</b></a> - a smarter Dockerfile linter that helps you build best practice Docker images.<br>
@@ -596,7 +615,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://censys.io/"><b>Censys</b></a> - platform that helps information security practitioners discover, monitor, and analyze devices.<br>
 &nbsp;&nbsp; <a href="https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
 &nbsp;&nbsp; <a href="https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - this tool looks for randomly generated data from Shodan.<br>
-&nbsp;&nbsp; <a href="https://viz.greynoise.io/table"><b>GreyNoise</b></a> - mass scanner such as Shodan and Censys.<br>
+&nbsp;&nbsp; <a href="https://viz.greynoise.io/"><b>GreyNoise</b></a> - mass scanner such as Shodan and Censys.<br>
 &nbsp;&nbsp; <a href="https://www.zoomeye.org/"><b>ZoomEye</b></a> - search engine for cyberspace that lets the user find specific network components.<br>
 &nbsp;&nbsp; <a href="https://netograph.io/"><b>netograph</b></a> - tools to monitor and understand deep structure of the web.<br>
 &nbsp;&nbsp; <a href="https://fofa.so/"><b>FOFA</b></a> - is a cyberspace search engine.<br>
@@ -620,11 +639,9 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.mmnt.net/"><b>Mamont's open FTP Index</b></a> - if a target has an open FTP site with accessible content it will be listed here.<br>
 &nbsp;&nbsp; <a href="https://osintframework.com/"><b>OSINT Framework</b></a> - focused on gathering information from free tools or resources.<br>
 &nbsp;&nbsp; <a href="https://www.maltiverse.com/search"><b>maltiverse</b></a> - is a service oriented to cybersecurity analysts.<br>
-&nbsp;&nbsp; <a href="https://leakedsource.ru/main/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 &nbsp;&nbsp; <a href="https://search.weleakinfo.com/"><b>We Leak Info</b></a> - to help everyday individuals secure their online life, avoiding getting hacked.<br>
 &nbsp;&nbsp; <a href="https://pipl.com/"><b>pipl</b></a> - is the place to find the person behind the email address, social username or phone number.<br>
 &nbsp;&nbsp; <a href="https://abuse.ch/"><b>abuse.ch</b></a> - is operated by a random swiss guy fighting malware for non-profit.<br>
-&nbsp;&nbsp; <a href="http://malc0de.com/database/"><b>malc0de</b></a> - malware search engine.<br>
 &nbsp;&nbsp; <a href="https://cybercrime-tracker.net/index.php"><b>Cybercrime Tracker</b></a> - monitors and tracks various malware families that are used to perpetrate cyber crimes.<br>
 &nbsp;&nbsp; <a href="https://github.com/eth0izzle/shhgit/"><b>shhgit</b></a> - find GitHub secrets in real time.<br>
 &nbsp;&nbsp; <a href="https://searchcode.com/"><b>searchcode</b></a> - helping you find real world examples of functions, API's and libraries.<br>
@@ -649,7 +666,6 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://haveibeenpwned.com/"><b>have i been pwned?</b></a> - check if you have an account that has been compromised in a data breach.<br>
 &nbsp;&nbsp; <a href="https://www.dehashed.com/"><b>dehashed</b></a> - is a hacked database search engine.<br>
-&nbsp;&nbsp; <a href="https://leakedsource.ru/"><b>Leaked Source</b></a> - is a collaboration of data found online in the form of a lookup.<br>
 </p>
 
 ##### :black_small_square: CVE/Exploits databases
@@ -670,7 +686,7 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp; <a href="https://www.immuniweb.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
 &nbsp;&nbsp; <a href="https://vulnerabilitytest.quixxi.com/"><b>Quixxi</b></a> - free Mobile App Vulnerability Scanner for Android & iOS.<br>
-&nbsp;&nbsp; <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
+&nbsp;&nbsp; <a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF"><b>MobSF</b></a> - automated mobile application security testing, malware analysis, and assessment framework.<br>
 </p>
 
 ##### :black_small_square: Private Search Engines
@@ -789,8 +805,11 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: CLI Tools
 
 <p>
+&nbsp;&nbsp; <a href="https://kubernetes.io/docs/reference/kubectl/"><b>kubectl</b></a> - command line tool for communicating with Kubernetes clusters.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/gvisor"><b>gvisor</b></a> - container runtime sandbox.<br>
 &nbsp;&nbsp; <a href="https://github.com/bcicen/ctop"><b>ctop</b></a> - top-like interface for container metrics.<br>
+&nbsp;&nbsp; <a href="https://github.com/derailed/k9s"><b>k9s</b></a> - terminal UI for observing and managing Kubernetes clusters.<br>
+&nbsp;&nbsp; <a href="https://github.com/jesseduffield/lazydocker"><b>lazydocker</b></a> - terminal UI for Docker and Docker Compose workflows.<br>
 </p>
 
 ##### :black_small_square: Web Tools
@@ -805,11 +824,21 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/bunkerity/bunkerized-nginx"><b>bunkerized-nginx</b></a> - nginx docker image "secure by default".<br>
 </p>
 
+##### :black_small_square: Internal Developer Platforms
+
+<p>
+&nbsp;&nbsp; <a href="https://backstage.io/"><b>Backstage</b></a> - platform for building internal developer portals and service catalogs.<br>
+&nbsp;&nbsp; <a href="https://kratix.io/"><b>Kratix</b></a> - framework for building platform APIs and self-service workflows on Kubernetes.<br>
+</p>
+
 ##### :black_small_square: Security
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - checks for dozens of common best-practices around deploying Docker.<br>
 &nbsp;&nbsp; <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br>
+&nbsp;&nbsp; <a href="https://github.com/anchore/grype"><b>grype</b></a> - vulnerability scanner for container images and filesystems.<br>
+&nbsp;&nbsp; <a href="https://github.com/anchore/syft"><b>syft</b></a> - generates software bills of materials from containers and filesystems.<br>
+&nbsp;&nbsp; <a href="https://github.com/sigstore/cosign"><b>cosign</b></a> - container signing, verification, and supply-chain artifact tooling.<br>
 &nbsp;&nbsp; <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
 &nbsp;&nbsp; <a href="https://houdini.secsi.io/"><b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br>
 </p>
@@ -928,7 +957,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices"><b>SSL Research</b></a> - SSL and TLS Deployment Best Practices by SSL Labs.<br>
 &nbsp;&nbsp; <a href="http://selinuxgame.org/index.html"><b>SELinux Game</b></a> - learn SELinux by doing. Solve Puzzles, show skillz.<br>
 &nbsp;&nbsp; <a href="https://smallstep.com/blog/everything-pki.html"><b>Certificates and PKI</b></a> - everything you should know about certificates and PKI but are too afraid to ask.<br>
-&nbsp;&nbsp; <a href="https://appsecco.com/books/subdomain-enumeration/"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
+&nbsp;&nbsp; <a href="https://github.com/appsecco/the-art-of-subdomain-enumeration"><b>The Art of Subdomain Enumeration</b></a> - a reference for subdomain enumeration techniques.<br>
 &nbsp;&nbsp; <a href="https://lifehacker.com/the-comprehensive-guide-to-quitting-google-1830001964"><b>Quitting Google</b></a> - the comprehensive guide to quitting Google.<br>
 </p>
 
@@ -978,7 +1007,6 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Other
 
 <p>
-&nbsp;&nbsp; <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
 &nbsp;&nbsp; <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
 &nbsp;&nbsp; <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
 &nbsp;&nbsp; <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
@@ -1042,7 +1070,6 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><b>Front-End-Performance-Checklist</b></a> - Front-End Performance Checklist that runs faster than the others.<br>
 &nbsp;&nbsp; <a href="https://rszalski.github.io/magicmethods/"><b>Python's Magic Methods</b></a> - what are magic methods? They're everything in object-oriented Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/satwikkansal/wtfpython"><b>wtfpython</b></a> - a collection of surprising Python snippets and lesser-known features.<br>
-&nbsp;&nbsp; <a href="https://github.com/twhite96/js-dev-reads"><b>js-dev-reads</b></a> - a list of books and articles for the discerning web developer to read.<br>
 &nbsp;&nbsp; <a href="https://github.com/RomuloOliveira/commit-messages-guide"><b>Commit messages guide</b></a> - a guide to understand the importance of commit messages.<br>
 </p>
 
@@ -1086,7 +1113,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/ossu/computer-science"><b>computer-science</b></a> - path to a free self-taught education in Computer Science.<br>
 &nbsp;&nbsp; <a href="https://github.com/danluu/post-mortems"><b>post-mortems</b></a> - is a collection of postmortems (config errors, hardware failures, and more).<br>
 &nbsp;&nbsp; <a href="https://github.com/danistefanovic/build-your-own-x"><b>build-your-own-x</b></a> - build your own (insert technology here).<br>
-&nbsp;&nbsp; <a href="https://github.com/rby90/Project-Based-Tutorials-in-C"><b>Project-Based-Tutorials-in-C</b></a> - is a curated list of project-based tutorials in C.<br>
+&nbsp;&nbsp; <a href="https://github.com/practical-tutorials/project-based-learning"><b>project-based-learning</b></a> - curated project-based tutorials across programming languages and systems topics.<br>
 &nbsp;&nbsp; <a href="https://github.com/kylelobo/The-Documentation-Compendium"><b>The-Documentation-Compendium</b></a> - various README templates & tips on writing high-quality documentation.<br>
 &nbsp;&nbsp; <a href="https://github.com/mahmoud/awesome-python-applications"><b>awesome-python-applications</b></a> - free software that works great, and also happens to be open-source Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/awesomedata/awesome-public-datasets"><b>awesome-public-datasets</b></a> - a topic-centric list of HQ open datasets.<br>
@@ -1163,7 +1190,6 @@ Linux Security Expert</b></a> - trainings, howtos, checklists, security tools, a
 &nbsp;&nbsp; <a href="https://www.tenable.com/podcast"><b>Tenable Podcast</b></a> - conversations and interviews related to Cyber Exposure, and more.<br>
 &nbsp;&nbsp; <a href="https://podcasts.apple.com/gb/podcast/cybercrime-investigations/id1428801405"><b>
 Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br>
-&nbsp;&nbsp; <a href="https://themanyhats.club/tag/episodes/"><b>The many hats club</b></a> - featuring stories from a wide range of Infosec people (Whitehat, Greyhat and Blackhat).<br>
 &nbsp;&nbsp; <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiosity that helps people be successful in OSINT.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/user/SecurityWeeklyTV"><b>Security Weekly</b></a> - the latest information security and hacking news.<br>
@@ -1236,7 +1262,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="http://www.syhunt.com/sandcat/"><b>Sandcat Browser</b></a> - a penetration-oriented browser with plenty of advanced functionality already built in.<br>
 &nbsp;&nbsp; <a href="https://www.metasploit.com/"><b>Metasploit</b></a> - tool and framework for pentesting system, web and many more.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/burp"><b>Burp Suite</b></a> - tool for testing web app security, intercepting proxy to replay, inject, scan and fuzz.<br>
-&nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
+&nbsp;&nbsp; <a href="https://www.zaproxy.org/"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp; <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
 &nbsp;&nbsp; <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
 &nbsp;&nbsp; <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
@@ -1250,7 +1276,6 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/future-architect/vuls"><b>vuls</b></a> - is an agent-less vulnerability scanner for Linux, FreeBSD, and other.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/tsunami-security-scanner"><b>tsunami</b></a> - is a general purpose network security scanner with an extensible plugin system.<br>
 &nbsp;&nbsp; <a href="https://github.com/michenriksen/aquatone"><b>aquatone</b></a> - a tool for domain flyovers.<br>
-&nbsp;&nbsp; <a href="https://github.com/GitHackTools/BillCipher"><b>BillCipher</b></a> - information gathering tool for a website or IP address.<br>
 &nbsp;&nbsp; <a href="https://github.com/Ekultek/WhatWaf"><b>WhatWaf</b></a> - detect and bypass web application firewalls and protection systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/s0md3v/Corsy"><b>Corsy</b></a> - CORS misconfiguration scanner.<br>
 &nbsp;&nbsp; <a href="https://github.com/evyatarmeged/Raccoon"><b>Raccoon</b></a> - is a high performance offensive security tool for reconnaissance and vulnerability scanning.<br>
@@ -1295,7 +1320,6 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 
 <p>
 &nbsp;&nbsp; <a href="http://www.pentest-standard.org/index.php/Main_Page"><b>PTES</b></a> - the penetration testing execution standard.<br>
-&nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/Practice.html"><b>Pentests MindMap</b></a> - amazing mind map with vulnerable apps and systems.<br>
 &nbsp;&nbsp; <a href="https://www.amanhardikar.com/mindmaps/webapptest.html"><b>WebApps Security Tests MindMap</b></a> - incredible mind map for WebApps security tests.<br>
 &nbsp;&nbsp; <a href="https://brutelogic.com.br/blog/"><b>Brute XSS</b></a> - master the art of Cross Site Scripting.<br>
 &nbsp;&nbsp; <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><b>XSS cheat sheet</b></a> - contains many vectors that can help you bypass WAFs and filters.<br>
@@ -1305,7 +1329,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/carpedm20/awesome-hacking"><b>Awesome Hacking by carpedm20</b></a> - a curated list of awesome hacking tutorials, tools and resources.<br>
 &nbsp;&nbsp; <a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><b>Awesome Hacking Resources</b></a> - collection of hacking/penetration testing resources to make you better.<br>
 &nbsp;&nbsp; <a href="https://github.com/enaqx/awesome-pentest"><b>Awesome Pentest</b></a> - collection of awesome penetration testing resources, tools and other shiny things.<br>
-&nbsp;&nbsp; <a href="https://github.com/m4ll0k/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br>
+&nbsp;&nbsp; <a href="https://github.com/Hack-with-Github/Awesome-Hacking-Tools"><b>Awesome-Hacking-Tools</b></a> - is a curated list of awesome Hacking Tools.<br>
 &nbsp;&nbsp; <a href="https://github.com/ksanchezcld/Hacking_Cheat_Sheet"><b>Hacking Cheat Sheet</b></a> - author hacking and pentesting notes.<br>
 &nbsp;&nbsp; <a href="https://github.com/toolswatch/blackhat-arsenal-tools"><b>blackhat-arsenal-tools</b></a> - official Black Hat arsenal security tools repository.<br>
 &nbsp;&nbsp; <a href="https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon"><b>Penetration Testing and WebApp Cheat Sheets</b></a> - the complete list of Infosec related cheat sheets.<br>
@@ -1317,7 +1341,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
 &nbsp;&nbsp; <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp; <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
-&nbsp;&nbsp; <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
+&nbsp;&nbsp; <a href="https://github.com/payload-box/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
 &nbsp;&nbsp; <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br>
 &nbsp;&nbsp; <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
 &nbsp;&nbsp; <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
@@ -1340,7 +1364,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/bl4de/ctf"><b>ctf</b></a> - CTF (Capture The Flag) writeups, code snippets, notes, scripts.<br>
 &nbsp;&nbsp; <a href="https://github.com/orangetw/My-CTF-Web-Challenges"><b>My-CTF-Web-Challenges</b></a> - collection of CTF Web challenges.<br>
 &nbsp;&nbsp; <a href="https://github.com/OWASP/owasp-mstg"><b>MSTG</b></a> - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing.<br>
-&nbsp;&nbsp; <a href="https://github.com/sdcampbell/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
+&nbsp;&nbsp; <a href="https://github.com/jurbz2019/Internal-Pentest-Playbook"><b>Internal-Pentest-Playbook</b></a> - notes on the most common things for an Internal Network Penetration Test.<br>
 &nbsp;&nbsp; <a href="https://github.com/streaak/keyhacks"><b>KeyHacks</b></a> - shows quick ways in which API keys leaked by a bug bounty program can be checked.<br>
 &nbsp;&nbsp; <a href="https://github.com/securitum/research"><b>securitum/research</b></a> - various Proof of Concepts of security research performed by Securitum.<br>
 &nbsp;&nbsp; <a href="https://github.com/juliocesarfort/public-pentesting-reports"><b>public-pentesting-reports</b></a> - is a list of public pentest reports released by several consulting security groups.<br>
@@ -1364,7 +1388,6 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://hashes.org/"><b>Hashes.org</b></a> - is a free online hash resolving service incorporating many unparalleled techniques.<br>
 &nbsp;&nbsp; <a href="https://github.com/danielmiessler/SecLists"><b>SecLists</b></a> - collection of multiple types of lists used during security assessments, collected in one place.<br>
 &nbsp;&nbsp; <a href="https://github.com/berzerk0/Probable-Wordlists"><b>Probable-Wordlists</b></a> - sorted by probability originally created for password generation and testing.<br>
-&nbsp;&nbsp; <a href="https://wiki.skullsecurity.org/index.php?title=Passwords"><b>skullsecurity passwords</b></a> - password dictionaries and leaked passwords repository.<br>
 &nbsp;&nbsp; <a href="https://bezpieka.org/polski-slownik-premium-polish-wordlist"><b>Polish PREMIUM Dictionary</b></a> - official dictionary created by the team on the forum bezpieka.org.<b>*</b> <sup><a href="https://sourceforge.net/projects/kali-linux/files/Wordlist/">1</sup><br>
 &nbsp;&nbsp; <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br>
 </p>
@@ -1443,7 +1466,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp; <a href="https://w3challs.com/"><b>W3Challs</b></a> - is a penetration testing training platform, which offers various computer challenges.<br>
 &nbsp;&nbsp; <a href="https://ringzer0ctf.com/challenges"><b>RingZer0 CTF</b></a> - offers you tons of challenges designed to test and improve your hacking skills.<br>
 &nbsp;&nbsp; <a href="https://hack.me/"><b>Hack.me</b></a> - a platform where you can build, host and share vulnerable web apps for educational purposes.<br>
-&nbsp;&nbsp; <a href="https://www.hackthis.co.uk/levels/"><b>HackThis!</b></a> - discover how hacks, dumps and defacements are performed and secure your website.<br>
+&nbsp;&nbsp; <a href="https://defendtheweb.net/"><b>Defend the Web</b></a> - security training platform for web hacking challenges.<br>
 &nbsp;&nbsp; <a href="https://www.enigmagroup.org/#"><b>Enigma Group WebApp Training</b></a> - these challenges cover the exploits listed in the OWASP Top 10 Project.<br>
 &nbsp;&nbsp; <a href="https://challenges.re/"><b>Reverse Engineering Challenges</b></a> - challenges, exercises, problems and tasks - by level, by type, and more.<br>
 &nbsp;&nbsp; <a href="https://0x00sec.org/"><b>0x00sec</b></a> - the home of the Hacker - Malware, Reverse Engineering, and Computer Science.<br>
@@ -1632,7 +1655,7 @@ http://192.168.516 → 192.168.2.4
 
   > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
 
-For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
+For more information please see [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
 
 ###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
 
@@ -3071,7 +3094,7 @@ readlink -f /proc/<PID>/cwd
 readlink -f /proc/<PID>/exe
 ```
 
-##### Tool: [curl](https://curl.haxx.se)
+##### Tool: [curl](https://curl.se)
 
 ```bash
 curl -Iks https://www.google.com
