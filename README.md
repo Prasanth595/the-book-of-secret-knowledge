@@ -147,7 +147,7 @@ Only main chapters:
 ##### :black_small_square: Text editors
 
 <p>
-&nbsp;&nbsp; <a href="http://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
+&nbsp;&nbsp; <a href="https://ex-vi.sourceforge.net/"><b>vi</b></a> - is one of the most common text editors on Unix.<br>
 &nbsp;&nbsp; <a href="https://www.vim.org/"><b>vim</b></a> - is a highly configurable text editor.<br>
 &nbsp;&nbsp; <a href="https://www.gnu.org/software/emacs/"><b>emacs</b></a> - is an extensible, customizable, free/libre text editor, and more.<br>
 &nbsp;&nbsp; <a href="https://github.com/zyedidia/micro"><b>micro</b></a> - is a modern and intuitive terminal-based text editor.<br>
@@ -174,21 +174,21 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
 &nbsp;&nbsp; <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
 &nbsp;&nbsp; <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
-&nbsp;&nbsp; <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
+&nbsp;&nbsp; <a href="https://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
 &nbsp;&nbsp; <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
 &nbsp;&nbsp; <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
-&nbsp;&nbsp; <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
-&nbsp;&nbsp; <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
+&nbsp;&nbsp; <a href="https://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp; <a href="https://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
 &nbsp;&nbsp; <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
 &nbsp;&nbsp; <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
 &nbsp;&nbsp; <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
 &nbsp;&nbsp; <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
-&nbsp;&nbsp; <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
+&nbsp;&nbsp; <a href="https://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
 &nbsp;&nbsp; <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
 &nbsp;&nbsp; <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
 &nbsp;&nbsp; <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
-&nbsp;&nbsp; <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp; <a href="https://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
 &nbsp;&nbsp; <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
 &nbsp;&nbsp; <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
 &nbsp;&nbsp; <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
@@ -299,21 +299,21 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/strace/strace"><b>strace</b></a> - diagnostic, debugging and instructional userspace utility for Linux.<br>
-&nbsp;&nbsp; <a href="http://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
+&nbsp;&nbsp; <a href="https://dtrace.org/blogs/about/"><b>DTrace</b></a> - is a performance analysis and troubleshooting tool.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Ltrace"><b>ltrace</b></a> - is a library call tracer, used to trace calls made by programs to library functions.<br>
 &nbsp;&nbsp; <a href="https://github.com/brainsmoke/ptrace-burrito"><b>ptrace-burrito</b></a> - is a friendly wrapper around ptrace.<br>
 &nbsp;&nbsp; <a href="https://github.com/brendangregg/perf-tools"><b>perf-tools</b></a> - performance analysis tools based on Linux perf_events (aka perf) and ftrace.<br>
 &nbsp;&nbsp; <a href="https://github.com/iovisor/bpftrace"><b>bpftrace</b></a> - high-level tracing language for Linux eBPF.<br>
 &nbsp;&nbsp; <a href="https://github.com/draios/sysdig"><b>sysdig</b></a> - system exploration and troubleshooting tool with first class support for containers.<br>
-&nbsp;&nbsp; <a href="http://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
+&nbsp;&nbsp; <a href="https://www.valgrind.org/"><b>Valgrind</b></a> - is an instrumentation framework for building dynamic analysis tools.<br>
 &nbsp;&nbsp; <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
 &nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
 &nbsp;&nbsp; <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br>
-&nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
+&nbsp;&nbsp; <a href="https://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
 &nbsp;&nbsp; <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
-&nbsp;&nbsp; <a href="http://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
+&nbsp;&nbsp; <a href="https://www.brendangregg.com/flamegraphs.html"><b>FlameGraph</b></a> - stack trace visualizer.<br>
 &nbsp;&nbsp; <a href="https://github.com/zevv/lsofgraph"><b>lsofgraph</b></a> - convert Unix lsof output to a graph showing FIFO and UNIX interprocess communication.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/rr"><b>rr</b></a> - is a lightweight tool for recording, replaying and debugging execution of applications.<br>
 &nbsp;&nbsp; <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
@@ -368,7 +368,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
-&nbsp;&nbsp; <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
+&nbsp;&nbsp; <a href="https://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
 &nbsp;&nbsp; <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
 &nbsp;&nbsp; <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
 &nbsp;&nbsp; <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
@@ -1111,7 +1111,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Geeky Persons
 
 <p>
-&nbsp;&nbsp; <a href="http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
+&nbsp;&nbsp; <a href="https://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - is an industry expert in computing performance and cloud computing.<br>
 &nbsp;&nbsp; <a href="https://gynvael.coldwind.pl/"><b>Gynvael "GynDream" Coldwind</b></a> - is a IT security engineer at Google.<br>
 &nbsp;&nbsp; <a href="http://lcamtuf.coredump.cx/"><b>Michał "lcamtuf" Zalewski</b></a> - white hat hacker, computer security expert.<br>
 &nbsp;&nbsp; <a href="https://ma.ttias.be/"><b>Mattias Geniar</b></a> - developer, sysadmin, blogger, podcaster and public speaker.<br>
@@ -3501,7 +3501,7 @@ ngrep -l -q -d eth0 -i "User-Agent: curl*"
 
 ___
 
-##### Tool: [hping3](http://www.hping.org/)
+##### Tool: [hping3](https://www.hping.org/)
 
 ```bash
 hping3 -V -p 80 -s 5050 <scan_type> www.google.com
@@ -3618,7 +3618,7 @@ nmap --script="$_nmap_nse_scripts" --script-args="$_nmap_nse_scripts_args" -p "$
 
 ___
 
-##### Tool: [netcat](http://netcat.sourceforge.net/)
+##### Tool: [netcat](https://netcat.sourceforge.net/)
 
 ```bash
 nc -kl 5000
@@ -3800,7 +3800,7 @@ gnutls-cli --disable-sni -p 443 google.com
 
 ___
 
-##### Tool: [socat](http://www.dest-unreach.org/socat/doc/socat.html)
+##### Tool: [socat](https://www.dest-unreach.org/socat/doc/socat.html)
 
 ###### Testing remote connection to port
 
