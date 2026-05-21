@@ -264,7 +264,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
 &nbsp;&nbsp; <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
-&nbsp;&nbsp; <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
+&nbsp;&nbsp; <a href="https://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
 &nbsp;&nbsp; <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
 &nbsp;&nbsp; <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
 &nbsp;&nbsp; <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
@@ -461,7 +461,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://dev.ssllabs.com/ssltest/"><b>SSLLabs Server Test (DEV)</b></a> - performs a deep analysis of the configuration of any SSL web server.<br>
 &nbsp;&nbsp; <a href="https://www.immuniweb.com/ssl/"><b>ImmuniWeb® SSLScan</b></a> - test SSL/TLS (PCI DSS, HIPAA and NIST).<br>
 &nbsp;&nbsp; <a href="https://www.jitbit.com/sslcheck/"><b>SSL Check</b></a> - scan your website for non-secure content.<br>
-&nbsp;&nbsp; <a href="http://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br>
+&nbsp;&nbsp; <a href="https://www.ssltools.com"><b>SSL Scanner</b></a> - analyze website security.<br>
 &nbsp;&nbsp; <a href="https://cryptcheck.fr/"><b>CryptCheck</b></a> - test your TLS server configuration (e.g. ciphers).<br>
 &nbsp;&nbsp; <a href="https://urlscan.io/"><b>urlscan.io</b></a> - service to scan and analyse websites.<br>
 &nbsp;&nbsp; <a href="https://report-uri.com/home/tools"><b>Report URI</b></a> - monitoring security policies like CSP and HPKP.<br>
@@ -496,21 +496,21 @@ Only main chapters:
 ##### :black_small_square: DNS
 
 <p>
-&nbsp;&nbsp; <a href="http://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
+&nbsp;&nbsp; <a href="https://viewdns.info/"><b>ViewDNS</b></a> - one source for free DNS related tools and information.<br>
 &nbsp;&nbsp; <a href="https://dnslookup.org/"><b>DNSLookup</b></a> - is an advanced DNS lookup tool.<br>
 &nbsp;&nbsp; <a href="https://dnslytics.com/"><b>DNSlytics</b></a> - online DNS investigation tool.<br>
 &nbsp;&nbsp; <a href="https://dnsspy.io/"><b>DNS Spy</b></a> - monitor, validate and verify your DNS configurations.<br>
 &nbsp;&nbsp; <a href="https://zonemaster.iis.se/en/"><b>Zonemaster</b></a> - helps you to control how your DNS works.<br>
-&nbsp;&nbsp; <a href="http://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
+&nbsp;&nbsp; <a href="https://leafdns.com/"><b>Leaf DNS</b></a> - comprehensive DNS tester.<br>
 &nbsp;&nbsp; <a href="https://findsubdomains.com/"><b>Find subdomains online</b></a> - find subdomains for security assessment penetration test.<br>
 &nbsp;&nbsp; <a href="https://dnsdumpster.com/"><b>DNSdumpster</b></a> - dns recon & research, find & lookup dns records.<br>
 &nbsp;&nbsp; <a href="https://dnstable.com/"><b>DNS Table online</b></a> - search for DNS records by domain, IP, CIDR, ISP.<br>
 &nbsp;&nbsp; <a href="https://intodns.com/"><b>intoDNS</b></a> - DNS and mail server health checker.<br>
-&nbsp;&nbsp; <a href="http://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
+&nbsp;&nbsp; <a href="https://www.zonecut.net/dns/"><b>DNS Bajaj</b></a> - check the delegation of your domain.<br>
 &nbsp;&nbsp; <a href="https://www.buddyns.com/delegation-lab/"><b>BuddyDNS Delegation LAB</b></a> - check, trace and visualize delegation of your domain.<br>
 &nbsp;&nbsp; <a href="https://dnssec-debugger.verisignlabs.com/"><b>dnssec-debugger</b></a> - DS or DNSKEY records validator.<br>
-&nbsp;&nbsp; <a href="http://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
-&nbsp;&nbsp; <a href="http://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
+&nbsp;&nbsp; <a href="https://ptrarchive.com/"><b>PTRarchive.com</b></a> - this site is responsible for the safekeeping of historical reverse DNS records.<br>
+&nbsp;&nbsp; <a href="https://xip.io/"><b>xip.io</b></a> - wildcard DNS for everyone.<br>
 &nbsp;&nbsp; <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
 &nbsp;&nbsp; <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp; <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
@@ -523,8 +523,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
 &nbsp;&nbsp; <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
 &nbsp;&nbsp; <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br>
-&nbsp;&nbsp; <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
-&nbsp;&nbsp; <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
+&nbsp;&nbsp; <a href="https://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
+&nbsp;&nbsp; <a href="https://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
 &nbsp;&nbsp; <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
 </p>
 
