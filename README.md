@@ -885,6 +885,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
 &nbsp;&nbsp; <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br>
 &nbsp;&nbsp; <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"><b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br>
+&nbsp;&nbsp; <a href="https://github.com/TanayK07/networking-from-scratch"><b>Networking from Scratch</b></a> - build the network stack from raw bytes. 289 hands-on lessons in C and Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - how to improve NGINX performance, security and other important things.<br>
 &nbsp;&nbsp; <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a> - NGINX config generator on steroids.<br>
 &nbsp;&nbsp; <a href="https://infosec.mozilla.org/guidelines/openssh"><b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
