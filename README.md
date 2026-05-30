@@ -221,6 +221,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/dnsdb/dnsdbq"><b>dnsdbq</b></a> - API client providing access to passive DNS database systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/looterz/grimd"><b>grimd</b></a> - fast dns proxy, built to black-hole internet advertisements and malware servers.<br>
   &nbsp;&nbsp; <a href="https://github.com/elceef/dnstwist"><b>dnstwist</b></a> - detect typosquatters, phishing attacks, fraud, and brand impersonation.<br>
+&nbsp;&nbsp; <a href="https://github.com/net-benchmark/net-benchmark"><b>net-benchmark</b></a> - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation, TLS timing, and resolver fingerprinting.<br>
 </p>
 
 ##### :black_small_square: Network (HTTP)
