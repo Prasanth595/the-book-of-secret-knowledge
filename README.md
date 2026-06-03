@@ -169,6 +169,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
 &nbsp;&nbsp; <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
 &nbsp;&nbsp; <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
+&nbsp;&nbsp; <a href="https://github.com/hczs/fuckssh"><b>fuckssh</b></a> - cross-platform CLI to automate SSH key setup, public key deployment, and config management.<br>
 &nbsp;&nbsp; <a href="https://nmap.org/"><b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
 &nbsp;&nbsp; <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
 &nbsp;&nbsp; <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
