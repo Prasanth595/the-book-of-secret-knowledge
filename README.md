@@ -538,6 +538,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://decode64.com/"><b>decode64</b></a> - free online Base64 decoder and encoder; runs entirely in the browser, no server uploads, safe for JWT tokens and API keys.<br>
 </p>
 
 ##### :black_small_square: Net-tools
