@@ -538,6 +538,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://vaultool.com"><b>Vaultool</b></a> - a collection of 31+ free, browser-based developer tools (image, PDF, JSON, text utilities). No signups, no uploads — everything runs client-side.<br>
 </p>
 
 ##### :black_small_square: Net-tools
