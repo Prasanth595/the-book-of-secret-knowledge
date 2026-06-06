@@ -131,6 +131,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-autosuggestions"><b>zsh-autosuggestions</b></a> - Fish-like autosuggestions for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/zsh-users/zsh-syntax-highlighting"><b>zsh-syntax-highlighting</b></a> - Fish shell like syntax highlighting for Zsh.<br>
 &nbsp;&nbsp; <a href="https://github.com/unixorn/awesome-zsh-plugins"><b>Awesome ZSH Plugins</b></a> - A list of frameworks, plugins, themes and tutorials for ZSH.<br>
+&nbsp;&nbsp; <a href="https://github.com/lacymorrow/lacy"><b>Lacy Shell</b></a> - ZSH/Bash plugin that routes natural language to AI agents and commands to your shell. No prefix, no hotkey.<br>
 </p>
 
 ##### :black_small_square: Managers
