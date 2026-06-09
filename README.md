@@ -288,6 +288,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
 &nbsp;&nbsp; <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing"><b>auditd</b></a> - provides a way to track security-relevant information on your system.<br>
 &nbsp;&nbsp; <a href="https://www.nongnu.org/tiger/"><b>Tiger</b></a> - is a security tool that can be use both as a security audit and intrusion detection system.<br>
+&nbsp;&nbsp; <a href="https://github.com/djadmin/fort"><b>fort</b></a> - macOS security audit CLI. Runs 16 checks, scores your posture, auto-fixes what it safely can. Homebrew installable.<br>
 &nbsp;&nbsp; <a href="https://cisofy.com/lynis/"><b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
 &nbsp;&nbsp; <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
 &nbsp;&nbsp; <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
