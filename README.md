@@ -23,6 +23,43 @@
 
 ****
 
+
+## Table of Contents
+
+- [:notebookwithdecorativecover: &nbsp;What is it?](#notebookwithdecorativecover-nbspwhat-is-it)
+- [:restroom: &nbsp;For whom?](#restroom-nbspfor-whom)
+- [:informationsource: &nbsp;Contributing](#informationsource-nbspcontributing)
+  - [Code Contributors](#code-contributors)
+  - [Financial Contributors](#financial-contributors)
+- [:newspaper: &nbsp;RSS Feed & Updates](#newspaper-nbsprss-feed-updates)
+- [:ballotboxwithcheck: &nbsp;ToDo](#ballotboxwithcheck-nbsptodo)
+- [:anger: &nbsp;Table of Contents](#anger-nbsptable-of-contents)
+- [:trident: &nbsp;The Book of Secret Knowledge (Chapters)](#trident-nbspthe-book-of-secret-knowledge-chapters)
+    - [CLI Tools &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#cli-tools-nbspsuptocsupanger-table-of-contents)
+    - [GUI Tools &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#gui-tools-nbspsuptocsupanger-table-of-contents)
+    - [Web Tools &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#web-tools-nbspsuptocsupanger-table-of-contents)
+    - [Systems/Services &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#systemsservices-nbspsuptocsupanger-table-of-contents)
+    - [Networks &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#networks-nbspsuptocsupanger-table-of-contents)
+    - [Containers/Orchestration &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#containersorchestration-nbspsuptocsupanger-table-of-contents)
+    - [Manuals/Howtos/Tutorials &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#manualshowtostutorials-nbspsuptocsupanger-table-of-contents)
+    - [Inspiring Lists &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#inspiring-lists-nbspsuptocsupanger-table-of-contents)
+    - [Blogs/Podcasts/Videos &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#blogspodcastsvideos-nbspsuptocsupanger-table-of-contents)
+    - [Hacking/Penetration Testing &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#hackingpenetration-testing-nbspsuptocsupanger-table-of-contents)
+    - [Your daily knowledge and news &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#your-daily-knowledge-and-news-nbspsuptocsupanger-table-of-contents)
+    - [Other Cheat Sheets &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#other-cheat-sheets-nbspsuptocsupanger-table-of-contents)
+    - [Shell One-liners &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#shell-one-liners-nbspsuptocsupanger-table-of-contents)
+  - [Record session](#record-session)
+  - [Replay session](#replay-session)
+  - [Set domains and external dns servers.](#set-domains-and-external-dns-servers)
+  - [Delete all of ssh-agent's keys.](#delete-all-of-ssh-agents-keys)
+  - [Add key to keychain.](#add-key-to-keychain)
+  - [TCP -> TCP](#tcp---tcp)
+  - [TCP -> UDP](#tcp---udp)
+  - [UDP -> UDP](#udp---udp)
+  - [UDP -> TCP](#udp---tcp)
+    - [Shell Tricks &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#shell-tricks-nbspsuptocsupanger-table-of-contents)
+    - [Shell functions &nbsp;<sup>TOC</sup>(anger-table-of-contents)](#shell-functions-nbspsuptocsupanger-table-of-contents)
+
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
