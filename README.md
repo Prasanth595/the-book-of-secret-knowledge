@@ -555,6 +555,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br>
 &nbsp;&nbsp; <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
 &nbsp;&nbsp; <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
+&nbsp;&nbsp; <a href="https://parsistent.com"><b>Parsistent</b></a> - free browser-based toolkit: HTTP request tester with proxy and anti-bot detection, CSS
+  selector, XPath, regex, JSON formatter.<br>
 </p>
 
 ##### :black_small_square: Privacy
