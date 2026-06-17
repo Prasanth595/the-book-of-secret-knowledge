@@ -635,6 +635,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://labs.inquest.net"><b>InQuest Labs</b></a> - InQuest Labs is an open, interactive, and API driven data portal for security researchers.<br>
 </p>
 
+##### :black_small_square: AI Services Status
+
+<p>
+&nbsp;&nbsp; <a href="https://prismix.dev"><b>Prismix</b></a> - real-time status dashboard for 75+ AI services (OpenAI, Anthropic, Cursor, Mistral, etc.) with alerts, AI news aggregator, and MCP server directory.<br>
+</p>
+
 ##### :black_small_square: Generators
 
 <p>
