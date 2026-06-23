@@ -538,6 +538,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://toolsnova.net"><b>ToolsNova</b></a> - 154 free browser-based tools for developers — JSON formatter, regex tester, base64 encoder, JWT decoder, diff checker, UUID generator, CSS minifier and more. No signup, works offline.<br>
 </p>
 
 ##### :black_small_square: Net-tools
@@ -4440,3 +4441,4 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+
