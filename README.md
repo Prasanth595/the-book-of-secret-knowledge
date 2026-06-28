@@ -547,6 +547,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br>
 &nbsp;&nbsp; <a href="https://www.robtex.com/"><b>Robtex</b></a> - uses various sources to gather public information about IP numbers, domain names, host names, etc.<br>
 &nbsp;&nbsp; <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
+&nbsp;&nbsp; <a href="https://domscan.net"><b>DomScan</b></a> - domain intelligence: DNS, WHOIS/RDAP, SSL, subdomains, valuation and typosquatting (API and MCP).<br>
 &nbsp;&nbsp; <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp; <a href="https://extendsclass.com/"><b>Online Tools for Developers</b></a> - HTTP API tools, testers, encoders, converters, formatters, and other tools.<br>
 &nbsp;&nbsp; <a href="https://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
