@@ -203,6 +203,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
 &nbsp;&nbsp; <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
 &nbsp;&nbsp; <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
+&nbsp;&nbsp; <a href="https://github.com/casablanque-code/cfzt"><b>cfzt</b></a> - one-command CLI tool to expose any local service through Cloudflare Tunnel and Zero Trust policies with an HTTP/QUIC protocol watchdog.<br>
 </p>
 
 ##### :black_small_square: Network (DNS)
