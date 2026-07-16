@@ -9,4 +9,4 @@ resources:
     usage_class: dual-use
     authorization_required: true
     maintenance_state: active
-    replacement: null
+    replacement: null 
