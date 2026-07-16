@@ -1,0 +1,12 @@
+resources:
+  - id: nmap
+    name: Nmap
+    official_url: https://nmap.org
+    purpose: Finds devices, open ports, and services on authorized networks.
+    status: active
+    last_verified: 2026-07-16
+    next_review: 2026-10-16
+    usage_class: dual-use
+    authorization_required: true
+    maintenance_state: active
+    replacement: null
