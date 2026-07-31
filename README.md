@@ -1228,6 +1228,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=3QnD2c4Xovk"><b>Diffie-Hellman Key Exchange (short version)</b></a> - how Diffie-Hellman Key Exchange worked.<br>
 </p>
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - open source GPL-3.0 autonomous AI penetration testing platform; self-hosted via docker-compose, runs fully local, with a Privacy Gateway that tokenises sensitive data so the model never sees real secrets. Covers web, API, AD and Kubernetes.
 #### Hacking/Penetration Testing &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Pentesters arsenal tools
