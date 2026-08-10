@@ -423,6 +423,11 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://pidgin.im/"><b>Pidgin</b></a> - is an easy to use and free chat client used by millions.<br>
 </p>
 
+##### :black_small_square: Messengers/Chat Clients
+<p>
+&nbsp;&nbsp; <a href="https://keet.io"><b>Keet</b></a> - is an IRC client based on XChat.<br>
+</p>
+
 ##### :black_small_square: Messengers (end-to-end encryption)
 
 <p>
