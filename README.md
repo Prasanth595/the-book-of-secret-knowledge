@@ -538,6 +538,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://stackiox.com/jwt-decoder/"><b>Stackiox JWT Decoder</b></a> - decode and inspect JWT header, payload, signature, and expiry status entirely client-side.<br>
+&nbsp;&nbsp; <a href="https://stackiox.com/base64-encoder-decoder/"><b>Stackiox Base64</b></a> - encode and decode Base64/Base64URL with UTF-8 handling and automatic variant detection.<br>
 </p>
 
 ##### :black_small_square: Net-tools
@@ -642,6 +644,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
 &nbsp;&nbsp; <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
 &nbsp;&nbsp; <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
+&nbsp;&nbsp; <a href="https://stackiox.com/cron-generator/"><b>Stackiox Cron Generator</b></a> - build and validate cron expressions with plain-English output and next-5 run times.<br>
 </p>
 
 ##### :black_small_square: Passwords
