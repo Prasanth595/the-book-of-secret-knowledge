@@ -293,6 +293,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
 &nbsp;&nbsp; <a href="https://github.com/hasherezade/pe-sieve"><b>PE-sieve</b></a> - is a light-weight tool that helps to detect malware running on the system.<br>
 &nbsp;&nbsp; <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/trivy"><b>Trivy</b></a> - comprehensive security scanner for container images, file systems, git repositories, and cloud configurations.<br>
 </p>
 
 ##### :black_small_square: System Diagnostics/Debuggers
