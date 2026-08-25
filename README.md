@@ -776,6 +776,7 @@ performance of any of your sites from across the globe.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
+&nbsp;&nbsp; <a href="https://devops-daily.com/games"><b>DevOps Daily Simulators</b></a> - free interactive terminal simulators for Docker, Kubernetes, Linux and Terraform in your browser.<br>
 </p>
 
 ##### :black_small_square: Other
