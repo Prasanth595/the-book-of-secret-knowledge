@@ -812,6 +812,12 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br>
 &nbsp;&nbsp; <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
 &nbsp;&nbsp; <a href="https://houdini.secsi.io/"><b>Houdini</b></a> - hundreds of offensive and useful docker images for network intrusion.<br>
+&nbsp;&nbsp; <a href="https://github.com/bridgecrewio/checkov"><b>checkov</b></a> - static code analysis tool for scanning infrastructure as code files for misconfigurations.<br>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/tfsec"><b>tfsec</b></a> - security scanner for your Terraform code.<br>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/kube-bench"><b>kube-bench</b></a> - checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.<br>
+&nbsp;&nbsp; <a href="https://github.com/aquasecurity/kube-hunter"><b>kube-hunter</b></a> - hunts for security weaknesses in Kubernetes clusters.<br>
+&nbsp;&nbsp; <a href="https://github.com/falcosecurity/falco"><b>falco</b></a> - cloud native runtime security tool for Linux operating systems, detects abnormal behavior in containers.<br>
+&nbsp;&nbsp; <a href="https://github.com/open-policy-agent/gatekeeper"><b>gatekeeper</b></a> - policy controller for Kubernetes that enforces custom resource policies using Open Policy Agent.<br>
 </p>
 
 ##### :black_small_square: Manuals/Tutorials/Best Practices
@@ -1289,6 +1295,14 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/gentilkiwi/mimikatz"><b>mimikatz</b></a> - a little tool to play with Windows security.<br>
 &nbsp;&nbsp; <a href="https://github.com/sherlock-project/sherlock"><b>sherlock</b></a> - hunt down social media accounts by username across social networks.<br>
 &nbsp;&nbsp; <a href="https://owasp.org/www-project-threat-dragon/"><b>OWASP Threat Dragon</b></a> - is a tool used to create threat model diagrams and to record possible threats.<br>
+&nbsp;&nbsp; <a href="https://github.com/gitleaks/gitleaks"><b>gitleaks</b></a> - detects and prevents secrets like passwords and API keys from leaking into git repositories.<br>
+&nbsp;&nbsp; <a href="https://github.com/trufflesecurity/trufflehog"><b>trufflehog</b></a> - finds, verifies, and analyzes leaked credentials across git history, filesystems and cloud storage.<br>
+&nbsp;&nbsp; <a href="https://github.com/semgrep/semgrep"><b>Semgrep</b></a> - fast, open-source, static analysis engine for finding bugs and enforcing code standards.<br>
+&nbsp;&nbsp; <a href="https://github.com/projectdiscovery/nuclei"><b>nuclei</b></a> - fast and customisable vulnerability scanner based on simple YAML based DSL.<br>
+&nbsp;&nbsp; <a href="https://github.com/projectdiscovery/httpx"><b>httpx</b></a> - fast and multi-purpose HTTP toolkit that allows running multiple probes.<br>
+&nbsp;&nbsp; <a href="https://github.com/ffuf/ffuf"><b>ffuf</b></a> - fast web fuzzer written in Go, used for content discovery and parameter fuzzing.<br>
+&nbsp;&nbsp; <a href="https://github.com/SpecterOps/BloodHound"><b>BloodHound</b></a> - uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment.<br>
+&nbsp;&nbsp; <a href="https://github.com/BishopFox/sliver"><b>Sliver</b></a> - open source cross-platform adversary emulation/red team framework.<br>
 </p>
 
 ##### :black_small_square: Pentests bookmarks collection
@@ -1316,6 +1330,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/hmaverickadams/Beginner-Network-Pentesting"><b>Beginner-Network-Pentesting</b></a> - notes for beginner network pentesting course.<br>
 &nbsp;&nbsp; <a href="https://github.com/rewardone/OSCPRepo"><b>OSCPRepo</b></a> - is a list of resources that author have been gathering in preparation for the OSCP.<br>
 &nbsp;&nbsp; <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
+&nbsp;&nbsp; <a href="https://github.com/HackTricks-wiki/hacktricks"><b>HackTricks</b></a> - place to learn about hacking tricks, techniques and CTF/pentest methodology for every kind of environment.<br>
 &nbsp;&nbsp; <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
 &nbsp;&nbsp; <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
 &nbsp;&nbsp; <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br>
