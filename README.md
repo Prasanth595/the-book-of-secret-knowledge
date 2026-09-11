@@ -1239,6 +1239,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"><b>OWASP Zed Attack Proxy</b></a> - intercepting proxy to replay, inject, scan and fuzz HTTP requests.<br>
 &nbsp;&nbsp; <a href="http://w3af.org/"><b>w3af</b></a> - is a Web Application Attack and Audit Framework.<br>
 &nbsp;&nbsp; <a href="https://mitmproxy.org/"><b>mitmproxy</b></a> - an interactive TLS-capable intercepting HTTP proxy for penetration testers.<br>
+&nbsp;&nbsp; <a href="https://github.com/ssh-mitm/ssh-mitm"><b>ssh-mitm</b></a> - man in the middle tool for SSH sessions, intercepts interactive sessions and file transfers, supports subsystems like PowerShell remoting and NETCONF.<br>
 &nbsp;&nbsp; <a href="https://cirt.net/Nikto2"><b>Nikto2</b></a> - web server scanner which performs comprehensive tests against web servers for multiple items.<br>
 &nbsp;&nbsp; <a href="http://sqlmap.org/"><b>sqlmap</b></a> - tool that automates the process of detecting and exploiting SQL injection flaws.<br>
 &nbsp;&nbsp; <a href="https://github.com/lanmaster53/recon-ng"><b>Recon-ng</b></a> - is a full-featured Web Reconnaissance framework written in Python.<br>
