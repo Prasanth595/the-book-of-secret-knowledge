@@ -1556,6 +1556,7 @@ AWS deployment tool.<br>
 | **`89.233.43.71`** | [censurfridns.dk](https://blog.uncensoreddns.org/) |
 | **`1.1.1.1`** | [cloudflare.com](https://1.1.1.1/) |
 | **`94.130.110.185`** | [dnsprivacy.at](https://dnsprivacy.at/) |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ###### TOP Browser extensions
 
