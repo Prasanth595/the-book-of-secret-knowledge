@@ -377,6 +377,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
 &nbsp;&nbsp; <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
 &nbsp;&nbsp; <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp; <a href="https://github.com/cortex-docs/cortex"><b>Cortex</b></a> - generate interactive API documentation, typed SDKs, and MCP servers from API specifications.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
