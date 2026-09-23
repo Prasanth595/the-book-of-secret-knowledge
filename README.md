@@ -411,6 +411,18 @@ Only main chapters:
 ##### :black_small_square: Password Managers
 
 <p>
+&nbsp;&nbsp; <a href="https://git-fork.com/"><b>Fork</b></a> - a fast and feature-rich Git client for macOS and Windows, with interactive rebase, conflict resolution, repository management, and a visual commit history.<br>
+&nbsp;&nbsp; <a href="https://desktop.github.com/"><b>GitHub Desktop</b></a> - a simple, user-friendly Git client with deep GitHub integration for macOS and Windows.<br>
+&nbsp;&nbsp; <a href="https://www.gitkraken.com/"><b>GitKraken</b></a> - a cross-platform Git client with visual history, merge tools, and integrations for Git hosting services.<br>
+&nbsp;&nbsp; <a href="https://www.sourcetreeapp.com/"><b>Sourcetree</b></a> - a free Git client for macOS and Windows with repository visualization and advanced Git operations.<br>
+&nbsp;&nbsp; <a href="https://www.syntevo.com/smartgit/"><b>SmartGit</b></a> - a cross-platform graphical Git client for Windows, macOS, and Linux.<br>
+&nbsp;&nbsp; <a href="https://tortoisegit.org/"><b>TortoiseGit</b></a> - a Windows shell extension that integrates Git commands into File Explorer.<br>
+&nbsp;&nbsp; <a href="https://gitcola.org/"><b>Git Cola</b></a> - a lightweight, open-source graphical interface for Git.<br>
+</p>
+
+##### :black_small_square: Password Managers
+
+<p>
 &nbsp;&nbsp; <a href="https://keepassxc.org/"><b>KeePassXC</b></a> - store your passwords safely and auto-type them into your everyday websites and apps.<br>
 &nbsp;&nbsp; <a href="https://bitwarden.com/"><b>Bitwarden</b></a> - open source password manager with built-in sync.<br>
 &nbsp;&nbsp; <a href="https://github.com/dani-garcia/vaultwarden/"><b>Vaultwarden</b></a> - unofficial Bitwarden compatible server written in Rust.<br>
