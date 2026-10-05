@@ -403,7 +403,6 @@ Only main chapters:
 </p>
 
 ##### :black_small_square: Browsers
-
 <p>
 &nbsp;&nbsp; <a href="https://www.torproject.org/"><b>TOR Browser</b></a> - protect your privacy and defend yourself against network surveillance and traffic analysis.<br>
 </p>
