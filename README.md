@@ -442,6 +442,13 @@ Only main chapters:
 
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
+
+##### :black_small_square: Developer Utilities
+
+<p>
+&nbsp;&nbsp; <a href="https://devtools.help/"><b>DevTools Help</b></a> - free online developer toolbox: JSON/YAML formatter, regex tester, hash/HMAC & JWT tools, timestamp converter, QR generator. Browser-only. <br>
+</p>
+
 ##### :black_small_square: Browsers
 
 <p>
