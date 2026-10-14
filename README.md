@@ -443,12 +443,6 @@ Only main chapters:
 #### Web Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 
-##### :black_small_square: Developer Utilities
-
-<p>
-&nbsp;&nbsp; <a href="https://devtools.help/"><b>DevTools Help</b></a> - free online developer toolbox: JSON/YAML formatter, regex tester, hash/HMAC & JWT tools, timestamp converter, QR generator. Browser-only. <br>
-</p>
-
 ##### :black_small_square: Browsers
 
 <p>
@@ -545,6 +539,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://www.regextester.com/"><b>RegEx Testing</b></a> - online regex testing tool.<br>
 &nbsp;&nbsp; <a href="https://www.regexpal.com/"><b>RegEx Pal</b></a> - online regex testing tool + other tools.<br>
 &nbsp;&nbsp; <a href="https://gchq.github.io/CyberChef/"><b>The Cyber Swiss Army Knife</b></a> - a web app for encryption, encoding, compression and data analysis.<br>
+&nbsp;&nbsp; <a href="https://devtools.help/"><b>DevTools Help</b></a> - free online developer toolbox: JSON/YAML formatter, regex tester, hash/HMAC & JWT, timestamp converter and QR generator. Browser-only.<br>
 </p>
 
 ##### :black_small_square: Net-tools
