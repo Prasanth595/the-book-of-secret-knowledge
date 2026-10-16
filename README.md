@@ -1274,6 +1274,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/pwndbg/pwndbg"><b>pwndbg</b></a> - exploit development and reverse engineering with GDB made easy.<br>
 &nbsp;&nbsp; <a href="https://github.com/longld/peda"><b>GDB PEDA</b></a> - Python Exploit Development Assistance for GDB.<br>
 &nbsp;&nbsp; <a href="https://www.hex-rays.com/products/ida/index.shtml"><b>IDA</b></a> - multi-processor disassembler and debugger useful for reverse engineering malware.<br>
+&nbsp;&nbsp; <a href="https://github.com/Vector35/binaryninja-api"><b>binary ninja</b></a> - multi-architecture disassembler and decompiler built for modern vulnerability research and program analysis.<br>
 &nbsp;&nbsp; <a href="https://github.com/radare/radare2"><b>radare2</b></a> - framework for reverse-engineering and analyzing binaries.<br>
 &nbsp;&nbsp; <a href="https://github.com/threat9/routersploit"><b>routersploit</b></a> - exploitation framework for embedded devices.<br>
 &nbsp;&nbsp; <a href="https://github.com/NationalSecurityAgency/ghidra"><b>Ghidra</b></a> - is a software reverse engineering (SRE) framework.<br>
