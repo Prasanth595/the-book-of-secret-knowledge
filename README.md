@@ -282,6 +282,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/dev-sec/"><b>DevSec Hardening Framework</b></a> - Security + DevOps: Automatic Server Hardening.<br>
 </p>
 
+##### :black_small_square: Privileged Access Management
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/rbenaley/Vauban"><b>Vauban</b></a> - privileged-access bastion for SSH, RDP, industrial protocols, and AI agent tool calls.<br>
+</p>
+
 ##### :black_small_square: Auditing Tools
 
 <p>
